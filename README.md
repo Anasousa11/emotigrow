@@ -53,6 +53,8 @@ I wanted to create a website where users can report their mood and type any thou
 - ![Screenshot_14-8-2025_222737_127 0 0 1](https://github.com/user-attachments/assets/313e1dbd-948e-40df-bc18-ca1660a10a0e)
 
 - I want to view my mood history to identify patterns.
+- ![Screenshot_15-8-2025_10033_127 0 0 1](https://github.com/user-attachments/assets/7ca1623e-70fe-4420-984e-f3851ca1de60)
+
 - I want the app to work well on phones and desktops.
 - I want my data saved so it persists between visits.
 
