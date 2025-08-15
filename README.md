@@ -62,7 +62,9 @@ I wanted to create a website where users can report their mood and type any thou
 ![Screenshot_15-8-2025_10427_127 0 0 1](https://github.com/user-attachments/assets/eb40b032-2781-4dfa-beae-48ac22d6fb6c)
 
 ## Folder Pathway
+
 emotigrow/
+
 ├── index.html           
 ├── journal.html         
 ├── 404.html             
