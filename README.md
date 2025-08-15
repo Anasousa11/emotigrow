@@ -24,7 +24,8 @@ I wanted to create a website where users can report their mood and type any thou
 
 ## Wireframes
 
-![Wireframe 1](https://github.com/user-attachment/assets/defda45c-2346-4777-b1c8-89c06b1e3c89)
+![Screenshot_31-7-2025_112059_www canva com](https://github.com/user-attachments/assets/72039a9d-35b4-4bbd-bba0-5c85a72a89a8)
+
 
 ## Features
 
