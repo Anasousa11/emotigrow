@@ -50,6 +50,8 @@ I wanted to create a website where users can report their mood and type any thou
 - I want to log how I'm feeling daily to reflect on my emotions.
 - I want to choose my mood quickly via emojis or sliders.
 - I want to write an optional journal entry about my day.
+- ![Screenshot_14-8-2025_222737_127 0 0 1](https://github.com/user-attachments/assets/313e1dbd-948e-40df-bc18-ca1660a10a0e)
+
 - I want to view my mood history to identify patterns.
 - I want the app to work well on phones and desktops.
 - I want my data saved so it persists between visits.
