@@ -69,10 +69,12 @@ emotigrow/
 ├── journal.html         
 ├── 404.html             
 ├── css/
+
 │   └── styles.css       
 ├── entry.js           
 ├── journal.js    
 ├── assets/
+
 │   ├── images/          
 │   └── favicon/           
 ├── README.md            
