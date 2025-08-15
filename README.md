@@ -61,6 +61,20 @@ I wanted to create a website where users can report their mood and type any thou
 - I want to be able to find mental health resources.
 ![Screenshot_15-8-2025_10427_127 0 0 1](https://github.com/user-attachments/assets/eb40b032-2781-4dfa-beae-48ac22d6fb6c)
 
+## Folder Pathway
+emotigrow/
+├── index.html           
+├── journal.html         
+├── 404.html             
+├── css/
+│   └── styles.css       
+├── entry.js           
+├── journal.js    
+├── assets/
+│   ├── images/          
+│   └── favicon/           
+├── README.md            
+            
 
 
 ## Technologies Used
