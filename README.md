@@ -75,6 +75,7 @@ Live App: [GitHub Pages](https://github.com/Anaousa11/emotigrow)
 Clone the repo:
 ```bash
 git clone https://github.com/Anaousa11/emotigrow.git
+<pre> <code> ### Deployment Live App: [GitHub Page](https://your-link-here) Clone the repo: ```bash git clone https://github.com/anasazizi/emotigrow.git ``` #### To run locally: ```bash # Run validation for mood selection and journal entries. # Initialize user interface with localStorage. python3 -m http.server ``` </code> </pre>
 
 ## Testing
 
