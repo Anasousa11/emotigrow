@@ -103,8 +103,8 @@ git clone https://github.com/Anaousa11/emotigrow.git
 - [Google Places API – Text Search](https://developers.google.com/maps/documentation/places/web-service/search)
 - [MDN: JavaScript Date Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 - [MDN: Keyboard Events](https://developer.mozilla.org/en-US/docs/Web/API/Element/keypress_event)
-- [Bootstrap]
-- [Google Fonts] *Edu VIC WA NT Hand Pre, Special Gothic Expanded One, Nunito, Quicksand*
+- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [Google Fonts](https://fonts.google.com/)*Edu VIC WA NT Hand Pre, Special Gothic Expanded One, Nunito, Quicksand*
 
 ## Author
 
