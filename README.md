@@ -78,6 +78,7 @@ git clone https://github.com/Anaousa11/emotigrow.git
 ```
 ## Testing
 
+- The original wireframes included a plan to implement a Quote Generator API to provide users with inspirational or motivational quotes as part of their mood tracking experience. However, during development, no suitable or reliable APIs were found that met the project requirements, so this feature was not implemented.
 - Form validation for mood selection and journal entries.
 - Data persistence tested with `localStorage`.
 - **Responsive design checked on multiple device sizes.**
