@@ -57,6 +57,9 @@ I wanted to create a website where users can report their mood and type any thou
 
 - I want the app to work well on phones and desktops.
 - I want my data saved so it persists between visits.
+- I want to be able to find mental health resources.
+- ![Screenshot_15-8-2025_10427_127 0 0 1](https://github.com/user-attachments/assets/aa75efba-1747-49bc-b2ac-619a4103dc57)
+
 
 ## Technologies Used
 
