@@ -81,9 +81,15 @@ git clone https://github.com/Anaousa11/emotigrow.git
 - Form validation for mood selection and journal entries.
 - Data persistence tested with `localStorage`.
 - Responsive design checked on multiple device sizes.
+![Screenshot_15-8-2025_104336_techsini com](https://github.com/user-attachments/assets/7e70bd56-db67-42dd-b02c-102c8179a936)
+
 - Chart rendering and data updates tested.
 - Navigation and accessibility checks (tab order, ARIA roles, color contrast).
 - 404 page functionality tested.
+- HTML passed W3C Validator, CSS passed jigsaw, JavaScript passed JS Validator.
+![Screenshot_15-8-2025_101840_jigsaw w3 org](https://github.com/user-attachments/assets/e4471900-dd93-4637-af7b-70fac6d9a941)
+![Screenshot_15-8-2025_105547_validator w3 org](https://github.com/user-attachments/assets/df638bfb-ff92-4122-9d9a-169d0dc3eff4)
+![Screenshot_15-8-2025_104656_jsvalidator com](https://github.com/user-attachments/assets/0a43ab9d-d5bb-4e52-926b-418cb12e8a6e)
 
 ## External Code & Attribution
 
