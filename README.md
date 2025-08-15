@@ -50,15 +50,15 @@ I wanted to create a website where users can report their mood and type any thou
 - I want to log how I'm feeling daily to reflect on my emotions.
 - I want to choose my mood quickly via emojis or sliders.
 - I want to write an optional journal entry about my day.
-- ![Screenshot_14-8-2025_222737_127 0 0 1](https://github.com/user-attachments/assets/313e1dbd-948e-40df-bc18-ca1660a10a0e)
+ ![Screenshot_14-8-2025_222737_127 0 0 1](https://github.com/user-attachments/assets/313e1dbd-948e-40df-bc18-ca1660a10a0e)
 
 - I want to view my mood history to identify patterns.
-- ![Screenshot_15-8-2025_10033_127 0 0 1](https://github.com/user-attachments/assets/7ca1623e-70fe-4420-984e-f3851ca1de60)
+ ![Screenshot_15-8-2025_10033_127 0 0 1](https://github.com/user-attachments/assets/7ca1623e-70fe-4420-984e-f3851ca1de60)
 
 - I want the app to work well on phones and desktops.
 - I want my data saved so it persists between visits.
 - I want to be able to find mental health resources.
-![Screenshot_15-8-2025_10427_127 0 0 1](https://github.com/user-attachments/assets/b4a2945b-e329-4e43-8105-4487e9c09b8d)
+[Screenshot_15-8-2025_10427_127 0 0 1](https://github.com/user-attachments/assets/b4a2945b-e329-4e43-8105-4487e9c09b8d)
 
 
 ## Technologies Used
@@ -80,23 +80,31 @@ git clone https://github.com/Anaousa11/emotigrow.git
 
 - Form validation for mood selection and journal entries.
 - Data persistence tested with `localStorage`.
-- Responsive design checked on multiple device sizes.
+- **Responsive design checked on multiple device sizes.**
 ![Screenshot_15-8-2025_104336_techsini com](https://github.com/user-attachments/assets/7e70bd56-db67-42dd-b02c-102c8179a936)
 
 - Chart rendering and data updates tested.
 - Navigation and accessibility checks (tab order, ARIA roles, color contrast).
 - 404 page functionality tested.
-- HTML passed W3C Validator, CSS passed jigsaw, JavaScript passed JS Validator.
+-  **HTML passed W3C Validator, CSS passed jigsaw, JavaScript passed JS Validator.**
 ![Screenshot_15-8-2025_101840_jigsaw w3 org](https://github.com/user-attachments/assets/e4471900-dd93-4637-af7b-70fac6d9a941)
 ![Screenshot_15-8-2025_105547_validator w3 org](https://github.com/user-attachments/assets/df638bfb-ff92-4122-9d9a-169d0dc3eff4)
 ![Screenshot_15-8-2025_104656_jsvalidator com](https://github.com/user-attachments/assets/0a43ab9d-d5bb-4e52-926b-418cb12e8a6e)
 
 ## External Code & Attribution
 
-- [Chart.js](https://www.chartjs.org/) – for visualizing mood trends.
-- [Day.js](https://day.js.org/) – for date formatting.
-- Emoji icons – source used if applicable.
-- Mental health resources – [Google Maps Places API](https://developers.google.com/maps/documentation/places/web-service/overview).
+## JavaScript References
+
+- [MDN: localStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+- [MDN: DOMContentLoaded](https://developer.mozilla.org/en-US/docs/Web/API/Document/DOMContentLoaded_event)
+- [MDN: DOM Manipulation Methods](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
+- [Chart.js Pie Chart](https://www.chartjs.org/docs/latest/charts/doughnut.html)
+- [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview)
+- [Google Places API – Text Search](https://developers.google.com/maps/documentation/places/web-service/search)
+- [MDN: JavaScript Date Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- [MDN: Keyboard Events](https://developer.mozilla.org/en-US/docs/Web/API/Element/keypress_event)
+- [Bootstrap]
+- [Google Fonts] *Edu VIC WA NT Hand Pre, Special Gothic Expanded One, Nunito, Quicksand*
 
 ## Author
 
