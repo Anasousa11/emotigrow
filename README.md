@@ -125,6 +125,63 @@ git clone https://github.com/Anaousa11/emotigrow.git
 - [MDN: Keyboard Events](https://developer.mozilla.org/en-US/docs/Web/API/Element/keypress_event)
 - [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - [Google Fonts](https://fonts.google.com/)*Edu VIC WA NT Hand Pre, Special Gothic Expanded One, Nunito, Quicksand*
+- [favicon](https://github.com/twitter/twemoji/blob/master/assets/svg/1f506.svg)
+
+## Development Log
+
+This project was developed using GitHub for version control. Halfway through, I had to switch laptops because of hardware issues, which meant creating a new repository. To keep everything transparent, I’ve included both repositories here so the full development journey can be seen:
+
+### Old Repository (initial setup and early commits): [https://github.com/Anasousa11/project-2/tree/main/project-milestone-2]
+
+### New Repository (continued development and final deployment): [https://github.com/Anasousa11/emotigrow]
+
+## Timeline of Development
+### Date	Repository	Commit / Milestone
+![Screenshot_19-8-2025_95124_github com](https://github.com/user-attachments/assets/dff22df7-7397-452d-b314-8ca620b1dcdc)
+![Screenshot_19-8-2025_9510_github com](https://github.com/user-attachments/assets/aef69d2f-b3cb-42dc-bfec-6806592aee02)
+
+
+Partway through the project, I had to change laptops because my old one became unreliable. This is why the project history is split across two repositories.
+
+### Old Laptop
+
+The battery was broken, so the laptop would only work when plugged in and often shut down unexpectedly.
+
+The keyboard was damaged with several missing keys, which made coding and writing commit messages very difficult.
+
+Because of this, I decided to move development to a new machine.
+
+**Evidence Screenshot:**
+
+
+### New Laptop
+
+Set up with Git, VS Code, and all dependencies reinstalled.
+
+Project moved to a new GitHub repository where I continued development.
+
+This allowed me to make consistent commits and push towards deployment without further disruption.
+
+**Evidence Screenshot:**
+
+
+Why This Is Included
+
+I’ve added this section to explain the break in the GitHub history. By linking both repositories, it’s still possible to see the full development timeline from start to finish.
+
+<img width="732" height="417" alt="11" src="https://github.com/user-attachments/assets/d14984a5-b3ef-49ab-9f6b-cc96cfd58a04" />
+<img width="738" height="419" alt="10" src="https://github.com/user-attachments/assets/eab9d50a-8e0c-4b15-a45b-f32cc9a21be3" />
+<img width="730" height="428" alt="9" src="https://github.com/user-attachments/assets/48ffc2b6-b624-489b-9d80-91e3f7688455" />
+<img width="708" height="420" alt="8" src="https://github.com/user-attachments/assets/e654dfcb-a795-4ca1-a763-3e5c7096264a" />
+<img width="722" height="422" alt="7" src="https://github.com/user-attachments/assets/e6040ae4-9b5a-4678-add9-83b80b63a655" />
+<img width="718" height="438" alt="6" src="https://github.com/user-attachments/assets/3defd0c2-be2f-4b65-a7a4-87c9d3f88ff6" />
+<img width="724" height="422" alt="5" src="https://github.com/user-attachments/assets/0256c81b-ad19-4414-839a-74ee3ee86752" />
+<img width="727" height="269" alt="4" src="https://github.com/user-attachments/assets/71fa400b-3b4e-4faf-935e-dad0d053d8d7" />
+<img width="732" height="269" alt="3" src="https://github.com/user-attachments/assets/f22a6187-b3bd-4ca9-98d1-702b6444e998" />
+<img width="705" height="199" alt="2" src="https://github.com/user-attachments/assets/45061c1e-5135-4673-8c78-8475c9eb83f2" />
+<img width="730" height="433" alt="13" src="https://github.com/user-attachments/assets/e27af081-28fe-43b9-8970-70ba1285ef96" />
+<img width="721" height="411" alt="12" src="https://github.com/user-attachments/assets/07232e59-d50a-4830-a6c0-373f33e5d803" />
+
 
 ## Author
 
