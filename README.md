@@ -101,7 +101,8 @@ git clone https://github.com/Anaousa11/emotigrow.git
 - The original wireframes included a plan to implement a Quote Generator API to provide users with inspirational or motivational quotes as part of the experience. However, during development, no suitable or reliable APIs were found, so this feature was not implemented.
 - Form validation for mood selection and journal entries.
 - Data tested with `localStorage` manually.
-- **Responsive design checked on multiple device sizes.**
+- 
+**Responsive design checked on multiple device sizes.**
 ![Screenshot_15-8-2025_104336_techsini com](https://github.com/user-attachments/assets/7e70bd56-db67-42dd-b02c-102c8179a936)
 
 - Chart rendering and data updates tested manually.
@@ -131,12 +132,12 @@ git clone https://github.com/Anaousa11/emotigrow.git
 
 This project was developed using GitHub for version control. Halfway through, I had to switch laptops because of hardware issues, which meant creating a new repository. To keep everything transparent, I’ve included both repositories here so the full development journey can be seen:
 
-### Old Repository (initial setup and early commits): [https://github.com/Anasousa11/project-2/tree/main/project-milestone-2]
+Old Repository (initial setup and early commits): [https://github.com/Anasousa11/project-2/tree/main/project-milestone-2]
 
-### New Repository (continued development and final deployment): [https://github.com/Anasousa11/emotigrow]
+ New Repository (continued development and final deployment): [https://github.com/Anasousa11/emotigrow]
 
-## Timeline of Development
-### Date	Repository	Commit / Milestone
+### Timeline of Development
+Date	Repository	Commit / Milestone
 ![Screenshot_19-8-2025_95124_github com](https://github.com/user-attachments/assets/dff22df7-7397-452d-b314-8ca620b1dcdc)
 ![Screenshot_19-8-2025_9510_github com](https://github.com/user-attachments/assets/aef69d2f-b3cb-42dc-bfec-6806592aee02)
 
@@ -160,7 +161,7 @@ Set up with Git, VS Code, and all dependencies reinstalled.
 
 Project moved to a new GitHub repository where I continued development.
 
-This allowed me to make consistent commits and push towards deployment without further disruption.
+This allowed me to make commits and push towards deployment without further problems.
 
 **Evidence Screenshot:**
 
